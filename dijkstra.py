@@ -6,7 +6,8 @@ import time
 
 # uncomment this part if to be run through command line - run like python dijkstra.py filename.txt  
 # if len(sys.argv) < 2:
-#     sys.exit("Filename not given. Please refer the README.txt for the list of file names.")
+#     sys.exit("Filename not given.") 
+#              # //Please refer the README.txt for the list of file names.")
 # else:
 #     filename = sys.argv[1]
 
